@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Lab16Erik.Model
+namespace Lab19erik.Model
 {
     public class Location
     {
